@@ -66,6 +66,9 @@ El equipo está dividido en cuatro subgrupos:
 - **Diseño**: estructura y ensamblaje físico.
 - **Comunicaciones**: documentación, difusión y gestión del repositorio.
 
+<img src="CanSat-Code/images/imagen_equipo.jpg" width="400">
+
+
 ## 📢 Difusión y Patrocinio
 
 Estamos comprometidos con la visibilidad del proyecto y la divulgación científica. Contamos con redes sociales activas y un programa de patrocinio basado en:
