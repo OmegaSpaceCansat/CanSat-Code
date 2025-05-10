@@ -1,6 +1,7 @@
 # 🛰️ Omega Space - CanSat 2025
 
 ¡Bienvenidos al repositorio oficial del proyecto **Omega Space CanSat 2025**! Este proyecto ha sido desarrollado por estudiantes de secundaria de la Región de Murcia (España) con el objetivo de diseñar y construir un mini satélite funcional con fines de rescate y reconocimiento.
+![Logo](images/imagen4.jpg)
 
 ## 🎯 Objetivo de la Misión
 
