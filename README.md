@@ -35,7 +35,7 @@ Buscamos demostrar cómo la tecnología aeroespacial puede ayudar en labores hum
 | **Cámara FPV** | Streaming de vídeo en vivo |
 | **Motor DC + L298N Mini** | Control del paracaídas durante el descenso |
 
-![fritzing](images/imagen5.jpg)
+![fritzing](images/imagen5.png)
 
 
 ## ⚙️ Diseño y Fabricación
